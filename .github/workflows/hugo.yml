@@ -1,4 +1,4 @@
-name: Deploy Hugo site to GitHub Pages
+﻿name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -42,8 +42,6 @@ jobs:
     needs: build
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
