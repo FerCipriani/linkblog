@@ -1,0 +1,18 @@
+
+baseURL = "https://FerCipriani.github.io/linkblog/"
+languageCode = "es"
+title = "LinkBlog"
+theme = "PaperMod"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+paginate = 30
+
+  
+
+

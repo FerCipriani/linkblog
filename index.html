@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main class="main">
+  <header class="page-header">
+    <h1>{{ site.Title }}</h1>
+    <p style="opacity:0.8;">Selección curada por temas. <a href="/archivo/">Ver archivo</a></p>
+  </header>
+
+  {{/* Configura aquí las secciones/tags que quieres mostrar */}}
+  {{ $tags := slice "IA" "Economía" "Seguridad" "Política" }}
+
+  {{ range $tags }}
+    {{ $tag := . }}
+    <section style="margin-top: 2rem;">
+      <h2>{{ $tag }}</h2>
+
+      {{/* filtra posts por tag y ordena por fecha desc */}}
+      {{ $pages := where site.RegularPages "Section" "posts" }}
+      {{ $pages = where $pages "Params.tags" "intersect" (slice $tag) }}
+      {{ $pages = $pages.ByDate.Reverse }}
+
+      {{ if gt (len $pages) 0 }}
+        <ul>
+          {{ range first 7 $pages }}
+            {{ $ext := .Params.external_url }}
+            <li style="margin: 0.35rem 0;">
+              {{ if $ext }}
+                <a href="{{ $ext }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a>
+              {{ else }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{ end }}
+              <small style="opacity:0.7;"> — {{ .Date.Format "02 Jan" }}</small>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <p style="opacity:0.7;">Aún no hay enlaces en esta sección.</p>
+      {{ end }}
+    </section>
+  {{ end }}
+
+</main>
+{{ end }}

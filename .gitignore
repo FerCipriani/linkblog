@@ -1,0 +1,5 @@
+@"
+public/
+resources/
+.hugo_build.lock
+"@ | Out-File -Encoding utf8 .gitignore
