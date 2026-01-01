@@ -18,6 +18,13 @@ theme = "PaperMod"
 
 paginate = 30
 
+[menu]
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
   
 
 
