@@ -10,6 +10,11 @@ theme = "PaperMod"
 [params]
   ShowReadingTime = false
   ShowShareButtons = false
+  customCSS = [
+    "css/pills.css",
+    "css/typography.css"
+  ]
+
 
 paginate = 30
 
