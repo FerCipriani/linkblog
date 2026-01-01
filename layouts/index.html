@@ -24,8 +24,20 @@
       {{ end }}
 
       <footer class="entry-footer">
-        {{ .Date.Format "January 2, 2006" }}
-      </footer>
+  {{ if .Params.tags }}
+    <div class="post-tags" style="margin-bottom: 0.25rem;">
+      {{ range .Params.tags }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/"
+           style="margin-right: 0.4rem; font-size: 0.85em;">
+          [{{ . }}]
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <span>{{ .Date.Format "January 2, 2006" }}</span>
+</footer>
+
     </article>
   {{ end }}
 </main>
