@@ -1,0 +1,21 @@
+/* Tags estilo "pill" */
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag-pill {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 999px;
+  font-size: 0.85em;
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.tag-pill:hover {
+  text-decoration: none;
+  border-color: rgba(128, 128, 128, 0.7);
+}
