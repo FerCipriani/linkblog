@@ -1,8 +1,8 @@
 ---
-title: "Reconstructing Pompeian Households by David Mimno"
-date: 2026-02-15
-tags: ["AQR"]
-external_url: "https://arxiv.org/abs/1202.3747"
+title: "Un nuevo cálculo de las tendencias globales"
+date: 2026-02-23
+tags: ["EC"]
+external_url: "https://senecaeffect.substack.com/p/a-new-calculation-of-global-trends"
 ---
 
-In this study we present a data-driven approach to household archeology, treating it as an unsupervised labeling problem.
+Una actualización del modelo de Límites del Crecimiento.
