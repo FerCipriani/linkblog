@@ -5,4 +5,4 @@ tags: ["EC"]
 external_url: "https://senecaeffect.substack.com/p/a-new-calculation-of-global-trends"
 ---
 
-Una actualización del modelo de Límites del Crecimiento.
+Una actualización del modelo de Límites del Crecimiento
