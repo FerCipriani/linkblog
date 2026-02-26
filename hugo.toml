@@ -4,17 +4,20 @@ languageCode = "es"
 title = "LinkBlog"
 theme = "PaperMod"
 
+[author]
+name = "Fer Cipriani"
+
 [taxonomies]
   tag = "tags"
 
 [params]
+  author = "Fer Cipriani"
   ShowReadingTime = false
   ShowShareButtons = false
   customCSS = [
     "css/pills.css",
     "css/typography.css"
   ]
-
 
 paginate = 30
 
