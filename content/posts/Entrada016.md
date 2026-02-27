@@ -1,6 +1,6 @@
 ---
 title: "Practical Deep Learning for Coders"
-date: 2026-01-03
+date: 2026-02-25
 tags: ["IA"]
 external_url: "https://course.fast.ai/"
 ---
