@@ -1,8 +1,8 @@
 ---
-title: "Practical Deep Learning"
-date: 2026-02-23
-tags: ["EC"]
-external_url: "https://course.fast.ai/"
+title: "Reconstructing Pompeian Households"
+date: 2026-02-26
+tags: ["ARQ"]
+external_url: "https://mimno.infosci.cornell.edu/papers/pompeii.pdf"
 ---
 
-Curso gratuito diseñado para personas con alguna experiencia en codificación, que quieran aprender a aplicar el aprendizaje profundo y el aprendizaje automático a problemas prácticos.
+Enfoque basado en datos para la arqueología doméstica, tratándola como un problema de etiquetado no supervisado.
