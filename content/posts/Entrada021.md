@@ -1,8 +1,8 @@
 ---
 title: "Petróleo y algo mas"
-date: 2026-03-02
+date: 2026-03-07
 tags: ["ECO"]
 external_url: "https://crashoil.blogspot.com/2026/03/el-hundimiento.html?m=1"
 ---
 
-EE.UU. necesita desesperadamente petróleo. Su hegemonía de los últimos años se ha basado en el fracking, y si éste empieza a fallar necesitan pasar a controlar los recursos disponibles en el mundo.
+Por Ormuz pasa el 20% del petróleo que se consume en el mundo. Pero si lo miramos desde la perspectiva del petróleo disponible para comerciar, resulta que lo que pasa por Ormuz es el 40% de las exportaciones mundiales de petróleo
