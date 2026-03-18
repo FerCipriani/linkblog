@@ -1,7 +1,7 @@
 ---
 title: "La Teoría de Equivalencia de Conjuntos (SET) "
 date: 2026-03-09
-tags: ["EC"]
+tags: ["MAT"]
 external_url: "https://crackingthecryptic.fandom.com/wiki/Set_Equivalence_Theory"
 ---
 
