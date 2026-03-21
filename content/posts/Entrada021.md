@@ -1,7 +1,7 @@
 ---
 title: "Petróleo y algo mas"
 date: 2026-03-07
-tags: ["EC"]
+tags: ["ECO"]
 external_url: "https://crashoil.blogspot.com/2026/03/el-hundimiento.html?m=1"
 ---
 

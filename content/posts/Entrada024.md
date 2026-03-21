@@ -1,7 +1,7 @@
 ---
 title: "Todos los ****** se ven iguales"
 date: 2026-03-14
-tags: ["EC"]
+tags: ["ECO"]
 external_url: "https://www.alexmurrell.co.uk/articles/the-age-of-average"
 ---
 

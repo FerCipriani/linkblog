@@ -1,7 +1,7 @@
 ---
 title: "From the Göbekli Tepe Research Project"
 date: 2026-02-15
-tags: ["AQR"]
+tags: ["ARQ"]
 external_url: "https://www.dainst.blog/the-tepe-telegrams/2016/06/02/gobekli-tepe-the-first-20-years-of-research/"
 ---
 
