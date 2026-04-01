@@ -1,8 +1,8 @@
 ---
-title: "Cómo sobrevivir a la era de la IA: una guía práctica"
-date: 2026-03-31
+title: "¿Qué está haciendo Yann? El sendero mágico para escapar del callejón sin salida de la IA"
+date: 2026-04-01
 tags: ["IA"]
-external_url: "https://www.thealgorithmicbridge.com/p/how-to-survive-the-ai-age-a-concrete"
+external_url: "https://elarjonauta.substack.com/p/que-esta-haciendo-yann-el-sendero"
 ---
 
-Las nuevas tecnologías que cambian el mundo, como presumiblemente lo hará la IA, no lo hacen automatizando las tareas que realizas ahora, sino haciéndolas innecesarias; el futuro de tu trabajo no consiste en que la IA escriba tus correos electrónicos por ti, sino en que esos correos electrónicos ni siquiera necesiten enviarse.
+Una red neuronal que solo ha visto vídeos de cocina aprende física mejor que un bebé y eso cambia todo lo que creíamos saber sobre cómo funciona la inteligencia
